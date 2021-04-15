@@ -3,8 +3,8 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains
 import time
 
-email="sparjapat841@gmail.com"
-password="Sahil987"
+email="email"
+password="password"
 
 driver=webdriver.Chrome()
 driver.get("https://open.spotify.com/")
